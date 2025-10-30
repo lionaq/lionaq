@@ -58,7 +58,7 @@ Currently focused on web development, data systems, and cloud-based solutions.
 
 ---
 
-### 🎟️ Holopin Board
+### 🌐 Earned in Open Source
 [![An image of @lionaq's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lionaq)](https://holopin.io/@lionaq)
 
 ---
