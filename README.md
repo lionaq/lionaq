@@ -9,14 +9,6 @@
 
 ---
 
-### 🌱 About Me
-<p align="center">
-I enjoy exploring how systems, design, and data work together to solve real-world problems.  
-Currently focused on web development, data systems, and cloud-based solutions.
-</p>
-
----
-
 ### 🧰 Tools & Technologies
 
 #### 🖥️ Languages
