@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:romeogiullanoaclo@gmail.com"><img src="https://img.shields.io/badge/Email-romeogiullanoaclo%40gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/romeo-giullano-aclo-6661372b7/"><img src="https://img.shields.io/badge/LinkedIn-Romeo%20Giullano%20Aclo-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/romeo-giullano-aclo-6661372b7/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20-%20Romeo%20Giullano%20Aclo-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://github.com/lionaq"><img src="https://img.shields.io/badge/GitHub-lionaq-black?style=flat-square&logo=github" /></a>
 </p>
 
